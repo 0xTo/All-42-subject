@@ -1,0 +1,6 @@
+ft_ssl [md5] [sha256]
+An introduction to cryptographic hashing algorithms
+Isaac Rhett irhett@student.42.us.org
+42 staﬀ staff@42.fr
+Summary: This project is the gateway to the encryption branch. You will recode part of
+the OpenSSL program, speciﬁcally the MD5 and SHA-256 hashing algorithms.

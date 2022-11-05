@@ -1,0 +1,7 @@
+D06 - Ruby on Rails Training
+Authentication and Authorizations
+Summary: You’re about to discover the wonderful world of rights through cookies, flags,
+authorizations and privileges.
+By the way, Rails has a very clear error management. Use it. At your level, the
+’error-driven development’ could be a relevant option!
+Version:

@@ -1,0 +1,9 @@
+D09 - Formation Ruby on Rails
+English version coming soon !
+Résumé: Aﬁn de rendre vos pages plus ludiques et rendre l’UX plus agreable, il vous
+faut agir sur le coté client et celui la ne connait pas Ruby. Vous allez donc avoir à user
+de JavaScript.
+La premiere partie de la journee va être destinée à rendre le CRUD plus dynamique avec
+de l’AJAX. Pour la seconde partie, il va être question de temps réel multiclient avec des
+WebSockets mis votre à disposition au travers d’Action Cable (la nouvelle feature de
+rails 5).

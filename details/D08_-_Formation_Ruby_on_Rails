@@ -1,0 +1,7 @@
+D08 - Formation Ruby on Rails
+English version coming soon!
+Summary: Un peu de notions d’ administration système et de shell-scripting vont etre
+nécessaire a l’ aparition de votre application sur le web. Vous allez apprendre a
+conﬁgurer nginx, puma, et capistrano.// Une application rails et un serveur se
+conﬁgurent diﬀerement an fonction de l’environnement .Vous allez tout savoir sur la
+fameuse -Mise en prod- .

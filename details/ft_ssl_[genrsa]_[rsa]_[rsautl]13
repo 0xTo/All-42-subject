@@ -1,0 +1,4 @@
+ft_ssl [genrsa] [rsa] [rsautl]
+Blowing your mind with math.
+Summary: This project is a continuation of the previous encryption project. You will
+recode part of the OpenSSL program, speciﬁcally GENRSA, RSA, and RSAUTL.

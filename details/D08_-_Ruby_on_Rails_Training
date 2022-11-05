@@ -1,0 +1,7 @@
+D08 - Ruby on Rails Training
+Servers
+Summary: You will need a little knowledge about system administration and
+shell-scripting when your application goes live. You will learn how to conﬁgure nginx,
+puma and capistrano.// According to the environment, a Rails application and a server
+will be conﬁgured diﬀerently. You’re about to learn everything about the infamous
+production phase.

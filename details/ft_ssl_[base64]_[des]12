@@ -1,0 +1,5 @@
+ft_ssl [base64] [des]
+The real fun: symmetric encoding and encryption
+Summary: This project is a continuation of the previous encryption project. You will
+recode part of the OpenSSL program, speciﬁcally BASE64, DES-ECB and DES-CBC.
+Version: 3

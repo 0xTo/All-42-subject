@@ -1,0 +1,6 @@
+ft_containers
+C++ containers, easy mode
+Summary:
+The standard C++ containers have all a speciﬁc usage.
+To make sure you understand them, let’s re-implement them!
+Version: 5

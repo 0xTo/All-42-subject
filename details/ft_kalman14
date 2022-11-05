@@ -1,0 +1,7 @@
+ft_kalman
+Some more tools to find charly
+Tiago Lernould (tlernoul),
+Eliott Suits (esuits),
+Damien Cuvillier (dacuvill)
+Summary: For this project, you will need to create a kalman filter to retrace a
+trajectory with incomplete and flawed information

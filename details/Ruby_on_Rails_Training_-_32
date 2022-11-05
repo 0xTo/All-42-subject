@@ -1,0 +1,9 @@
+Ruby on Rails Training - 3
+Final
+Summary: In order to make your pages more fun and the UX more pleasant, you need
+to work on the client side, but it doesn’t know Ruby. This is why you will have to use
+JavaScript.
+The ﬁrst part of the day will aim to make the CRUD more dynamic with some AJAX. The
+second part will be about multi-user real time with WebSockets provided through
+ActionCable (a new feature in Rails 5).
+Version: 1

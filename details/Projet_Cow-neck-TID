@@ -1,0 +1,31 @@
+Projet Cow-neck-TID
+(Traitement Intelligent des Données du cou des vaches)
+avec ITK
+Projet en équipe de 2 à 3 personnes.
+Pour des raisons logistiques, ce projet est actuellement à date fixe jusqu’au 1er décembre
+2021.
+1. Avant-propos
+Dans le cadre du programme Agritech entre Hectar et 42, le projet Cow-neck-TID est
+effectué en collaboration avec ITK (https://itk.fr).
+2. Contexte agricole
+Faute de ne pouvoir raisonnablement passer 100% de son temps avec son bétail, il est
+envisagé d’effectuer un suivi partiellement automatisé de son cheptel. Le campus Hectar
+dispose de vaches connectées : chaque animal porte autour de son cou un collier connecté
+qui permet de le localiser, mais également de suivre les différents mouvements de sa tête.
+3. Partie 1 : traitement et visualisation de la donnée
+Vous disposez d’informations en provenance des capteurs sur tout un historique qui
+permettra de faire apprendre vos algorithmes de machine learning (en partie 2), et
+également en temps réel (ou presque) pour les vaches du campus Hectar. Vous devez :
+● filtrer la donnée afin d’enlever les éléments aberrants, principalement sur les
+données temps réel. Les données historiques d'entraînement sont quant à
+elles déjà propres.
+● effectuer des représentations visuelles de l’ensemble de ces données (data
+visualisation avec des histogrammes, camemberts, courbes, cartes, etc...) de
+sorte à permettre une lecture simple à un exploitant pour ses animaux. Selon
+que vous travaillez sur de la donnée historique qui contient déjà les analyses
+et calculs de l’état de l'animal, ou bien temps réel, toutes les informations,
+courbes, etc… ne pourront pas forcément être affichées.
+● mettre en évidence les cycles, les éléments récurrents, les changements, des
+événements inhabituels, des ruptures d’habitudes.
+Le rendu se fait sous la forme d’une plateforme web compatible desktop et mobile. Un
+conteneur apparaît comme un choix naturel pour ce rendu.

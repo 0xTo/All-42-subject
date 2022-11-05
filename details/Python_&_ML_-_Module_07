@@ -1,0 +1,5 @@
+Python & ML - Module 07
+Multivariate Linear Regression
+Summary: Building on what you did on the previous modules you will extend the linear
+regression to handle more than one features. Then you will see how to build polynomial
+models and how to detect overﬁtting.

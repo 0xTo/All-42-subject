@@ -1,0 +1,5 @@
+OCaml Module 01
+Recursion and higher-order functions
+Summary: In this module, we will go deeper into writing recursive function. We will
+discover the very important notion of tail recursive functions, and you will implement
+some of the most important functions of computer science history!

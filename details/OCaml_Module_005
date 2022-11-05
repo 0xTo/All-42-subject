@@ -1,0 +1,4 @@
+OCaml Module 00
+Basic syntaxes and semantics
+Summary: In this ﬁrst OCaml module, you will discover the basic syntax and semantics
+of the language: values, types, operators, let bindings, functions and recursion.

@@ -1,0 +1,35 @@
+Projet Vic-2-I
+(Vegetables In Cabinets To (alimentary) Independence, a.k.a Victuailles)
+avec PopFarm
+Projet en équipe de 2 à 3 personnes.
+1. Avant-propos
+Dans le cadre du programme Agritech entre Hectar et 42, le projet Vic-2-I est effectué en
+collaboration avec PopFarm.
+2. Contexte agricole : les fermes urbaines
+Avec la tendance grandissante des circuits courts et des productions bio et écoresponsable,
+PopFarm a imaginé une machine automatique permettant la production locale de certains
+fruits et légumes suivant ces principes. Basilic, fraises, ciboulette, et tant d’autres sont ainsi
+cultivés de façon automatique par des enseignes alimentaires qui les mettent directement en
+rayon. La machine, bardée de capteurs, est dotée d’une IA qui s’assure du bon
+développement des plantes.
+Un des principaux défis dans la conception d’IA dans le monde réel est, à partir d’une base
+de données annotées, être capable de bien les traiter pour entrainer différents types de
+modèles pour qualifier cette donnée. Un élément essentiel est donc de pouvoir bien mesurer
+les performances des modèles, et pour cela, une des meilleures solutions est de les
+confronter à des experts.
+Au sein de cet exercice, nous vous proposons de travailler sur les données qui nous ont
+servi à élaborer un POC d’une application de reconnaissance de plantes et de détection de
+maladie.
+Ce projet s’axe sur les trois parties essentielles à la mise en place d’une IA : traitement de la
+donnée, modélisation, et visualisation/interprétation de ces deux premières.
+Le fil directeur de chaque partie est d’appliquer des méthodes d’analyse des données avec
+pour objectif de pouvoir faire un retour clair à nos équipes d’agronomes, non seulement pour
+les assister, mais aussi pour obtenir leurs observations qui permettront de détecter des
+erreurs ou d’améliorer la solution en continu.
+3. Les données
+Les données utilisées dans ce projet sont celles utilisées dans le papier “J, ARUN
+PANDIAN; GOPAL, GEETHARAMANI (2019), “Data for: Identification of Plant Leaf Diseases
+Using a 9-layer Deep Convolutional Neural Network”, Mendeley Data, V1, doi:
+10.17632/tywbtsjrjv.1”.
+Dans ce jeu de données, 39 classes différentes d'images de feuilles et d'arrière-plan de
+plantes sont disponibles. L'ensemble de données contenant 61 486 images. Les auteurs ont

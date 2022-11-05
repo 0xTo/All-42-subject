@@ -1,0 +1,4 @@
+MessageQueue
+RabbitMQ
+Summary: we will learn how to work with a large ﬂow of tasks using RabbitMQ
+message broker, a popular implementation of MQ pattern
